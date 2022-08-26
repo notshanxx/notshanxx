@@ -7,12 +7,13 @@
 
 <br>
 
-<h2 align="center">What I know</h2>
+<h2>Tools <img width="32" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+ </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<h2 align="center">My Github Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=notshanxx&theme=tokyonight&show_icons=true"/>
+</br>
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=notshanxx&theme=tokyonight&show_icons=true&custom_title=My%20Github%20Stat"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notshanxx&theme=tokyonight&layout=compact" />
