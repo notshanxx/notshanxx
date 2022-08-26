@@ -7,7 +7,7 @@
 
 <br>
 
-<h2>Tools <img width="32" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<h2>Tools    <img width="20" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
  </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
