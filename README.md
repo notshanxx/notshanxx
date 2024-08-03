@@ -1,7 +1,5 @@
-### hello 🐵
 
-<!--
-<h3 align="center">Hello!</h3>
+<h3 align="center">Hello! 🐵</h3>
 <p align="center">
 <img src="./herecomesthemoney.gif" />
 </p>
@@ -17,7 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notshanxx&theme=tokyonight&layout=compact" />
 </p>
 
--->
 
 
 
