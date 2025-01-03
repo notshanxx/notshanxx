@@ -1,6 +1,7 @@
 
 <h3 align="center">Hello! 🐵</h3>
 
+- Nigga you need to finish the cs50 this year 
 <!--
 
 <p align="center">
